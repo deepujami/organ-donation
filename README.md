@@ -1,17 +1,17 @@
 # organ-donation
 # 🏥 Organ Donation and Matching System
 
-## 📘 Description
+##  Description
 The Organ Donation and Matching System is a C language mini project that helps hospitals and donation centers store, manage, and match organ donors with recipients efficiently. It reduces manual work and improves the speed and accuracy of organ allocation.
 
-## ⚙️ Features
+##  Features
 - Stores donor and recipient details using structures  
 - Matches based on *blood group, **organ type, and **location*  
 - Handles up to *200 records* using file handling  
 - Includes *organ priority, **urgency level, and **availability status*  
 - Uses C concepts like *loops, arrays, pointers, strings, functions, unions, and **files*
 
-## 🧠 Matching Logic
+##  Matching Logic
 A match occurs when:
 - Blood group matches  
 - Organ type matches  
@@ -27,7 +27,7 @@ Recipient: O+, Kidney, Hyderabad → Matched!
 - Include medical test results for advanced matching  
 - Improve user interface for hospitals
 
-## 💻 How to Run
+##  How to Run
 1. Compile the program using any C compiler (e.g., GCC or Turbo C).  
 2. Run the executable file.  
 3. Enter donor and recipient details as prompted.  
